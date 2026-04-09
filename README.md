@@ -11,5 +11,9 @@ pip install execjs
 kimi = KIMI()
 print(kimi.kimi_TextQuestion("写一段xxx代码")) #文本聊天
 print(kimi.kimi_ImageQuestion("生成xxx图片"))  #生成图片
+```
+```markdown
+文本聊天直接返回文本，图片生成返回下载链接
+```
 
 
