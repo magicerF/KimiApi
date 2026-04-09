@@ -7,7 +7,6 @@ pip install requests
 pip install execjs
 
 调用方法：
-
 ```python
 kimi = KIMI()
 print(kimi.kimi_TextQuestion("写一段xxx代码")) #文本聊天
